@@ -43,17 +43,13 @@ The Client is Computer 1. The Computer 1's DNS server private IP address is 10.0
 
 <
 
-<p align=center><img src="![myhealthreport com users](https://user-images.githubusercontent.com/121436228/222591834-3b6ff2ec-8344-42f1-a83a-36d84cbeab22.png)
-"></p>
+<p align=center><img src="https://user-images.githubusercontent.com/121436228/222591834-3b6ff2ec-8344-42f1-a83a-36d84cbeab22.png"></p>
 
-<p align=center><img src="![Folders(1)](https://user-images.githubusercontent.com/121436228/222591810-3ba848ec-033a-490b-bf2a-348ea7840793.png)
-"></p>
+<p align=center><img src="https://user-images.githubusercontent.com/121436228/222591810-3ba848ec-033a-490b-bf2a-348ea7840793.png"></p>
 
-<p align=center><img src="![List of Users](https://user-images.githubusercontent.com/121436228/222591788-26f7b906-4c21-4b8f-a57e-e6d116ea95fc.png)
-"></p>
+<p align=center><img src="https://user-images.githubusercontent.com/121436228/222591788-26f7b906-4c21-4b8f-a57e-e6d116ea95fc.png"></p>
 
-<p align=center><img src="![Permission](https://user-images.githubusercontent.com/121436228/222591773-fddcad78-169f-4de2-aca4-821924edc1b4.png)
-"></p>
+<p align=center><img src="https://user-images.githubusercontent.com/121436228/222591773-fddcad78-169f-4de2-aca4-821924edc1b4.png"></p>
 
 
 
