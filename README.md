@@ -9,7 +9,7 @@ This tutorial displays how to share files and authorize permission levels to var
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Sharing Files Through the Same Network ()
+- ### [YouTube: Sharing Files Through the Same Network (https://youtu.be/kSnumGm2XD0)
 - ### [YouTube: ADDS Prerequisite installation (https://www.youtube.com/watch?v=VhZrN8monh0)
 
 <h2>Environments and Technologies Used</h2>
