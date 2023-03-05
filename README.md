@@ -24,28 +24,42 @@ This tutorial displays how to share files and authorize permission levels to var
 - Windows Server 2022 Datacenter 
 - Windows 10 PRO (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>High-Level Deployment</h2>
 
 - Prerequisite: Active Directory Domain Services Installed
-- Create folders
-- Authorize access
+- Create an Admin and some users
+- Create 3 different folders
+- Authorize access to user
 - Create a Security Group Folder
--
-- Create an Admin and some users 
+- Demonstrate User attempts to folders
 
-On Microsoft Azure, create two virtual machines, one is a Domain Controller and the other is the Client.
-In this tutorial, the Domain Controller is called Barreau Hospital. Barreau Hospital's  dns server private IP address is 10.0.0.4.
-The Client is Computer 1. The Computer 1's DNS server private IP address is 10.0.0.5.
 
-<p align=center><img src=""></p>
+<h2>Network File Sharing and Permission step-by-step</h2>
 
-<p align=center><img src=""></p>
 
-<
+<p> On the myhealthreport.com Domain Controller (DC), create 4 users.
+  <p> At the Server Manager program, go to tools then to Active Directory Users and Computers.
+     <p> Right-click on the left side bar > New > Users
 
 <p align=center><img src="https://user-images.githubusercontent.com/121436228/222591834-3b6ff2ec-8344-42f1-a83a-36d84cbeab22.png"></p>
+'
+<p> Each of these users will have four levels of permission. To create the folders go to the myhealthreport.com DC, click on "File Explorer" then go to C:\. After that, right-click to "New" > Folder. </p>
+  1. Read Only folder
+  2. Read/Write folder
+  3. No Access folder
+  
+ <p>This is created under the Active Director Users and Computers > right-click "New" > "Organizational Unit" > Create a new folder called "Board of Directors" > Right click on the right side of this folder > "New" > "Group" > Name it "BOD"> Group type: "Security" > Right click to "Properties" > Go to "Members"> "Add Dr. Barreau" </p>
+  4. Security Group folder 
 
 <p align=center><img src="https://user-images.githubusercontent.com/121436228/222591810-3ba848ec-033a-490b-bf2a-348ea7840793.png"></p>
+
+<p>In this tutorial we are going to use Dr. Barreau, the Board leader to access these four folders. 
+  1. The "Doctor's research" folder will be the "Read Only" folder.
+  2. The "Admin" folder will be the "Read and Write" folder.
+  3. The "Patient's chart" will be the "No Access" folder.
+  4. The "BOD (Board of Directors)" will be the "Read and Write" folder only for the Board Members to see.
+  
+
 
 <p align=center><img src="https://user-images.githubusercontent.com/121436228/222591788-26f7b906-4c21-4b8f-a57e-e6d116ea95fc.png"></p>
 
