@@ -60,7 +60,7 @@ This tutorial displays how to share files and authorize permission levels to var
 
 <p align=center><img src="https://user-images.githubusercontent.com/121436228/222591810-3ba848ec-033a-490b-bf2a-348ea7840793.png"></p>
 
-<p>In this tutorial we are going to use Dr. Barreau, the Board leader to access these four folders. 
+<p>In this tutorial, we are going to use Dr. Barreau, the Board leader to access these four folders. 
   
   1. The "Doctor's research" folder will be the "Read Only" folder.
   
@@ -71,7 +71,7 @@ This tutorial displays how to share files and authorize permission levels to var
   4. The "BOD (Board of Directors)" will be the "Read and Write" folder only for the Board Members to see.
   
   
-
+<h3>Finally, on the "Computer1's Virtual Machine", Dr. Barreau demonstrates what he do and don't have access to. </h3>
 
 <p align=center><img src="https://user-images.githubusercontent.com/121436228/222591788-26f7b906-4c21-4b8f-a57e-e6d116ea95fc.png"></p>
 
