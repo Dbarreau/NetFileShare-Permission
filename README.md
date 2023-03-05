@@ -61,10 +61,15 @@ This tutorial displays how to share files and authorize permission levels to var
 <p align=center><img src="https://user-images.githubusercontent.com/121436228/222591810-3ba848ec-033a-490b-bf2a-348ea7840793.png"></p>
 
 <p>In this tutorial we are going to use Dr. Barreau, the Board leader to access these four folders. 
+  
   1. The "Doctor's research" folder will be the "Read Only" folder.
+  
   2. The "Admin" folder will be the "Read and Write" folder.
+  
   3. The "Patient's chart" will be the "No Access" folder.
+  
   4. The "BOD (Board of Directors)" will be the "Read and Write" folder only for the Board Members to see.
+  
   
 
 
