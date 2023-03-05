@@ -75,7 +75,7 @@ This tutorial displays how to share files and authorize permission levels to var
 <p align=center><img src="https://user-images.githubusercontent.com/121436228/222591788-26f7b906-4c21-4b8f-a57e-e6d116ea95fc.png"></p>
 
   
-<<p align=center>__Finally, on the "Computer1's Virtual Machine", Dr. Barreau demonstrates what he do and don't have access to.__</p>
+<p align=center>__Finally, on the "Computer1's Virtual Machine", Dr. Barreau demonstrates what he have access to.__</p>
 
 
 <p align=center><img src="https://user-images.githubusercontent.com/121436228/222591773-fddcad78-169f-4de2-aca4-821924edc1b4.png"></p>
