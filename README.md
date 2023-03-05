@@ -16,7 +16,7 @@ This tutorial displays how to share files and authorize permission levels to var
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop Connection
-- Active Directory Domain Services
+- Active Directory Domain Services (AD DS)
 - Window's File system
 
 <h2>Operating Systems Used </h2>
