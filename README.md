@@ -45,11 +45,14 @@ This tutorial displays how to share files and authorize permission levels to var
 '
 <p> Each of these users will have four levels of permission. To create the folders go to the myhealthreport.com DC, click on "File Explorer" then go to C:\. After that, right-click to "New" > Folder. </p>
   1. Read Only folder
+  
   2. Read/Write folder
+   
   3. No Access folder
   
- <p>This is created under the Active Director Users and Computers > right-click "New" > "Organizational Unit" > Create a new folder called "Board of Directors" > Right click on the right side of this folder > "New" > "Group" > Name it "BOD"> Group type: "Security" > Right click to "Properties" > Go to "Members"> "Add Dr. Barreau" </p>
   4. Security Group folder 
+  5. 
+  <p>This is created under the Active Director Users and Computers > right-click "New" > "Organizational Unit" > Create a new folder called "Board of Directors" > Right click on the right side of this folder > "New" > "Group" > Name it "BOD"> Group type: "Security" > Right click to "Properties" > Go to "Members"> "Add Dr. Barreau" </p>
 
 <p align=center><img src="https://user-images.githubusercontent.com/121436228/222591810-3ba848ec-033a-490b-bf2a-348ea7840793.png"></p>
 
