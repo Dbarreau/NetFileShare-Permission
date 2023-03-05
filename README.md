@@ -43,7 +43,7 @@ This tutorial displays how to share files and authorize permission levels to var
 
 <p align=center><img src="https://user-images.githubusercontent.com/121436228/222591834-3b6ff2ec-8344-42f1-a83a-36d84cbeab22.png"></p>
 '
-<p> Each of these users will have four levels of permission. To create the folders go to the myhealthreport.com DC, click on "File Explorer" then go to C:\. After that, right-click to "New" > Folder. </p>
+<p> Each of these users will have four levels of permission. To create the folders go to the myhealthreport.com DC, click on "File Explorer" then go to C:\. After that, right-click to "New" > "Folder". </p>
   1. Read Only folder
   
   2. Read/Write folder
