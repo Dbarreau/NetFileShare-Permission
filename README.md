@@ -54,9 +54,13 @@ This tutorial displays how to share files and authorize permission levels to var
   
   <p>This is how you create the Security group.  
   Under the Active Directory Users and Computers > right-click "New" > "Organizational Unit" > 
+  
   Create a new folder called "Board of Directors" > Right click on the right side of this folder > 
+  
   "New" > "Group" > Name it "BOD"> Group type: "Security" > Right click to "Properties" > 
+  
   Go to "Members"> Add "Dr. Barreau"
+  
   Go to File Explorer > Create a "New"> "Folder" > Name it "Board of Directors"> Right-click to "Properties"
 > Go to "Share" tab > type "BOD" > add "member" then "apply"</p>
 
