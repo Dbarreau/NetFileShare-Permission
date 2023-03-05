@@ -53,7 +53,7 @@ This tutorial displays how to share files and authorize permission levels to var
   4. Security Group folder 
   
   <p>This is how you create the Security group.  
-  Under the Active Director Users and Computers > right-click "New" > "Organizational Unit" > 
+  Under the Active Directory Users and Computers > right-click "New" > "Organizational Unit" > 
   Create a new folder called "Board of Directors" > Right click on the right side of this folder > 
   "New" > "Group" > Name it "BOD"> Group type: "Security" > Right click to "Properties" > 
   Go to "Members"> Add "Dr. Barreau" </p>
