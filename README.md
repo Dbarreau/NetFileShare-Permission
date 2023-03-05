@@ -70,10 +70,12 @@ This tutorial displays how to share files and authorize permission levels to var
   
   4. The "BOD (Board of Directors)" will be the "Read and Write" folder only for the Board Members to see.
   
-  
-__Finally, on the "Computer1's Virtual Machine", Dr. Barreau demonstrates what he do and don't have access to.__
+
 
 <p align=center><img src="https://user-images.githubusercontent.com/121436228/222591788-26f7b906-4c21-4b8f-a57e-e6d116ea95fc.png"></p>
+
+  
+<h3>__Finally, on the "Computer1's Virtual Machine", Dr. Barreau demonstrates what he do and don't have access to.__</h3>
 
 <p align=center><img src="https://user-images.githubusercontent.com/121436228/222591773-fddcad78-169f-4de2-aca4-821924edc1b4.png"></p>
 
