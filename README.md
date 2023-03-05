@@ -31,7 +31,7 @@ This tutorial displays how to share files and authorize permission levels to var
 - Authorize access
 - Create a Security Group Folder
 -
-- Create an Admin and some users
+- Create an Admin and some users 
 
 On Microsoft Azure, create two virtual machines, one is a Domain Controller and the other is the Client.
 In this tutorial, the Domain Controller is called Barreau Hospital. Barreau Hospital's  dns server private IP address is 10.0.0.4.
